@@ -1,1 +1,1 @@
-This is my website. The theme is derived from Steve Miller's mashup up of a number of other Jekyll and wordpress themes.  Thanks to him for his hard work and his [useful tutorial](http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/). 
+This is the code for [my website](http://bobfrank.github.io). The theme is derived from Steve Miller's mashup up of a number of other Jekyll and wordpress themes.  Thanks to him for his hard work and his [useful tutorial](http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/). 
