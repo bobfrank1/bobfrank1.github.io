@@ -15,6 +15,12 @@ this is buried behing a Yale firewall, but I hope to fix this in the future.
 <br>
 The study of language from the perspective of cognitive science. Exploration of mental structures that underlie the human ability to learn and process language, drawing on studies of normal and atypical language development and processing, brain imaging, neuropsychology, and computational modeling. Innate linguistic structure vs. determination by experience and culture; the relation between linguistic and nonlinguistic cognition in the domains of decision making, social cognition, and musical cognition; the degree to which language shapes perceptions of color, number, space, and gender.  
 
+
+- LING 224/624
+[Mathematics of Language](https://yale.instructure.com/courses/40421)
+<br>
+Study of formal systems that play an important role in the scientific study of language. Exploration of a range of mathematical structures and techniques; demonstrations of their application in theories of grammatical competence and performance including set theory, graphs and discrete structures, algebras, formal language, and automata theory. Evaluation of strengths and weaknesses of existing formal theories of linguistic knowledge.
+
 - LING 227/627
 [Language and Computation I](https://yale.instructure.com/courses/40422)
 <br> 
@@ -23,10 +29,6 @@ include finite state tools, computational morphology and phonology,
 grammar and parsing, lexical semantics, and the use of linguistic
 models in applied problems.
 
-- LING 224/624
-[Mathematics of Language](https://yale.instructure.com/courses/40421)
-<br>
-Study of formal systems that play an important role in the scientific study of language. Exploration of a range of mathematical structures and techniques; demonstrations of their application in theories of grammatical competence and performance including set theory, graphs and discrete structures, algebras, formal language, and automata theory. Evaluation of strengths and weaknesses of existing formal theories of linguistic knowledge.
 
 ### Past Classes
 
