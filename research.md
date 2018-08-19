@@ -9,7 +9,7 @@ permalink: /research/
 
 # In brief
 
-I’m interested in applying insights from computational modeling and mathematical formalization to issues in theoretical linguistics (especially syntax), language acquisition and processing. I also explore the application of such methods to problems in Natural Language Processing.  This happens in the context of the Computational Linguistics at Yale (CLAY) lab, [whose website](clay.yale.edu) you can consult for more details.
+I’m interested in applying insights from computational modeling and mathematical formalization to issues in theoretical linguistics (especially syntax), language acquisition and processing. I also explore the application of such methods to problems in Natural Language Processing.  This happens in the context of the Computational Linguistics at Yale (CLAY) lab, [whose website](http://clay.yale.edu) you can consult for more details.
 
 # Less briefly
 
