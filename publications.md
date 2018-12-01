@@ -55,13 +55,16 @@ Robert Frank and [Donald Mathis](https://www.linkedin.com/in/don-mathis-06427b55
 
 Robert Frank and [K. Vijay-Shanker](https://www.eecis.udel.edu/~vijay/). 2000. [Lowering Across Languages](https://link.springer.com/chapter/10.1007/978-94-011-3949-6_3). In *Crosslinguistic Perspectives on Language Processing*, Marica De Vincenzi and Vincenzo Lombardo (editors), pp. 63–87. Kluwer.
 
-
 Robert Frank. 2000. From Regular to Context-Free to Mildly Context-Sensitive Tree Rewriting Systems: The Path of Child Language Acquisition. In *Tree Adjoining Grammars: Formalisms, Linguistic Analysis and Processing*, Anne Abeillé and Owen Rambow (editors), pp. 101–120. CSLI Publications.
 
 Robert Frank. 1998. [Structural Complexity and the Time Course of Grammatical Development](https://www.sciencedirect.com/science/article/pii/S0010027798000249). *Cognition* 66(3):249–301.
 
 ### Natural Language Processing
 
+[Jungo Kasai](https://homes.cs.washington.edu/~jkasai/) and Robert Frank. 2019. [Jabberwocky Parsing: Dependency Parsing with Lexical Noise](https://homes.cs.washington.edu/~jkasai/papers/scil2019_final.pdf). In *Proceedings of the 2019 Meeting of the Society for Computation in Linguistics*, New York. 
+
+[Yiding Hao](http://yale.academia.edu/YidingHao),  [William Merrill](https://viking-sudo-rm.github.io), [Dana Angluin](https://cpsc.yale.edu/people/dana-angluin), Robert Frank, [Noah Amsel](https://www.linkedin.com/in/noah-amsel/), Andrew Benz and Simon Mendelsohn. 2018. [Context-Free Transductions with Neural Stacks](https://arxiv.org/pdf/1809.02836.pdf). In *Proceedings of the Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP)*, Brussels.
+ 
 [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), Robert Frank, Pauli Xu, [William Merrill](https://viking-sudo-rm.github.io) and [Owen Rambow](https://www.elementalcognition.com/team/). 2018. [End-to-end Graph-based TAG Parsing with Neural Networks](http://aclweb.org/anthology/N18-1107). In *Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, New Orleans.
 
 [R. Thomas McCoy](https://tommccoy1.github.io) and Robert Frank. 2018. [Phonologically Informed Edit Distance Algorithms for Word Alignment with Low-Resource Languages](http://aclweb.org/anthology/W18-0311). In *Proceedings of the Society for Computation in Linguistics*, Volume 1, Article 12.
