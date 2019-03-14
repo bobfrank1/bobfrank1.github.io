@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Publications 
+title: Selected Publications
 permalink: /publications/
 ---
 
@@ -24,7 +24,7 @@ Robert Frank. 2006. [Phase Theory and Tree Adjoining Grammar](https://www.scienc
 
 Robert Frank. 2004. [Restricting Grammatical Complexity](https://onlinelibrary.wiley.com/doi/full/10.1207/s15516709cog2805_3). *Cognitive Science* 28(5):669–697.
 
-Robert Frank. 2004. [Phrase Structure Composition and Syntactic Dependencies](https://mitpress.mit.edu/books/phrase-structure-composition-and-syntactic-dependencies). MIT Press. 
+Robert Frank. 2004. [Phrase Structure Composition and Syntactic Dependencies](https://mitpress.mit.edu/books/phrase-structure-composition-and-syntactic-dependencies). MIT Press.
 
 Robert Frank, [Young-Suk Lee](https://researcher.watson.ibm.com/researcher/view.php?person=us-ysuklee) and [Owen Rambow](https://www.elementalcognition.com/team/). 1996. [Scrambling, Reconstruction and Subject Binding](http://arcaold.unive.it/bitstream/10278/2220/1/3_frank-lee-rambow.pdf). *Rivista di Grammatica Generativa* 21:67–106.
 
@@ -61,10 +61,12 @@ Robert Frank. 1998. [Structural Complexity and the Time Course of Grammatical De
 
 ### Natural Language Processing
 
-[Jungo Kasai](https://homes.cs.washington.edu/~jkasai/) and Robert Frank. 2019. [Jabberwocky Parsing: Dependency Parsing with Lexical Noise](https://homes.cs.washington.edu/~jkasai/papers/scil2019_final.pdf). In *Proceedings of the 2019 Meeting of the Society for Computation in Linguistics*, New York. 
+[Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), Daniel Friedman, Robert Frank, [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) and [Owen Rambow](https://www.elementalcognition.com/team/). 2019. [Syntax-aware Neural Semantic Role Labeling with Supertags](https://arxiv.org/abs/1903.05260). In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2019."
+
+[Jungo Kasai](https://homes.cs.washington.edu/~jkasai/) and Robert Frank. 2019. [Jabberwocky Parsing: Dependency Parsing with Lexical Noise](https://homes.cs.washington.edu/~jkasai/papers/scil2019_final.pdf). In *Proceedings of the 2019 Meeting of the Society for Computation in Linguistics*, New York.
 
 [Yiding Hao](http://yale.academia.edu/YidingHao),  [William Merrill](https://viking-sudo-rm.github.io), [Dana Angluin](https://cpsc.yale.edu/people/dana-angluin), Robert Frank, [Noah Amsel](https://www.linkedin.com/in/noah-amsel/), Andrew Benz and Simon Mendelsohn. 2018. [Context-Free Transductions with Neural Stacks](https://arxiv.org/pdf/1809.02836.pdf). In *Proceedings of the Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP)*, Brussels.
- 
+
 [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), Robert Frank, Pauli Xu, [William Merrill](https://viking-sudo-rm.github.io) and [Owen Rambow](https://www.elementalcognition.com/team/). 2018. [End-to-end Graph-based TAG Parsing with Neural Networks](http://aclweb.org/anthology/N18-1107). In *Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, New Orleans.
 
 [R. Thomas McCoy](https://tommccoy1.github.io) and Robert Frank. 2018. [Phonologically Informed Edit Distance Algorithms for Word Alignment with Low-Resource Languages](http://aclweb.org/anthology/W18-0311). In *Proceedings of the Society for Computation in Linguistics*, Volume 1, Article 12.
