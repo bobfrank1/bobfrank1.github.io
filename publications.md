@@ -30,8 +30,9 @@ Robert Frank, [Young-Suk Lee](https://researcher.watson.ibm.com/researcher/view.
 
 ### Mathematical Linguistics
 
-Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 2011. La matematica del linguaggio. In *La matematica, vol. 3: Suoni, forme, parole*, Claudio Bartocci and Piergiorgio Odifreddi (editors), pp. 651–702, Einaudi.
+[Yiding Hao](ttps://www.notaphonologist.com),  [William Merrill](https://viking-sudo-rm.github.io), [Dana Angluin](https://cpsc.yale.edu/people/dana-angluin), Robert Frank, [Noah Amsel](https://www.linkedin.com/in/noah-amsel/), Andrew Benz and Simon Mendelsohn. 2018. [Context-Free Transductions with Neural Stacks](https://arxiv.org/pdf/1809.02836.pdf). In *Proceedings of the 1st Blackbox NLP Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP)*, Brussels.
 
+Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 2011. La matematica del linguaggio. In *La matematica, vol. 3: Suoni, forme, parole*, Claudio Bartocci and Piergiorgio Odifreddi (editors), pp. 651–702, Einaudi.
 
 Robert Frank, [Paul Hagstrom](http://www.bu.edu/linguistics/UG/hagstrom/) and [K. Vijay-Shanker](https://www.eecis.udel.edu/~vijay/). 2002. [Roots, Constituents and C-Command](https://www.bu.edu/linguistics/UG/hagstrom/papers/RCC-final.pdf). In *Theoretical Approaches to Universals*, Artemis Alexiadou (editor), pp. 109–137. John Benjamins.
 
@@ -42,8 +43,6 @@ Robert Frank and Fero Kuminiak. 2000. [Primitive Asymmetric C-Command Derives X�
 Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 1998. [Optimality Theory and the Generative Complexity of Constraint Violability](http://www.aclweb.org/anthology/J98-2006). *Computational Linguistics* 24(2):307–315.
 
 ### Language Acquisition and Processing
-
-
 
 [R. Thomas McCoy](https://tommccoy1.github.io) , Robert Frank and [Tal Linzen](http://tallinzen.net). 2018. [Revisiting the poverty of the stimulus: hierarchical generalization without a hierarchical bias in recurrent neural networks](https://arxiv.org/abs/1802.09091). In *Proceedings of the 40th Annual Meeting of the Cognitive Science Society*, Madison, WI.
 
@@ -61,11 +60,15 @@ Robert Frank. 1998. [Structural Complexity and the Time Course of Grammatical De
 
 ### Natural Language Processing
 
-[Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), Daniel Friedman, Robert Frank, [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) and [Owen Rambow](https://www.elementalcognition.com/team/). 2019. [Syntax-aware Neural Semantic Role Labeling with Supertags](https://arxiv.org/abs/1903.05260). In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2019."
+[William Merrill](https://viking-sudo-rm.github.io), [Lenny Khazan](https://www.linkedin.com/in/lennykhazan/), [Noah Amsel](https://www.linkedin.com/in/noah-amsel/),  [Yiding Hao](https://www.notaphonologist.com),   Simon Mendelsohn and Robert Frank. 2019. [Finding Syntactic Representations in Neural Stacks](https://arxiv.org/abs/1906.01594). In *Proceedings of the 2nd Blackbox NLP Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP)*, Firenze.
+
+Yongjie Lin, Yi Chern Tan and Robert Frank. 2019. [Open Sesame: Getting Inside BERT's Linguistic Knowledge](http://clay.yale.edu/papers/bert_blackboxnlp2019.pdf). In *Proceedings of the 2nd Blackbox NLP Workshop on Analyzing and Interpreting Neural Networks for NLP (ACL)*, Firenze.
+
+[William Merrill](https://viking-sudo-rm.github.io), [Gigi Felice Stark](https://www.linkedin.com/in/gigi-stark-15a6b97) and Robert Frank. 2019. [Detecting Syntactic Change Using a Neural Part-of-Speech Tagger]http://clay.yale.edu/papers/Diachronic_POS_Tagger.pdf). In *Proceedings of the  1st International Workshop on Computational Approaches to Historical Language Change (ACL)*, Firenze.
+
+[Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), Daniel Friedman, Robert Frank, [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) and [Owen Rambow](https://www.elementalcognition.com/team/). 2019. [Syntax-aware Neural Semantic Role Labeling with Supertags](https://arxiv.org/abs/1903.05260). In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), Minneapolis.
 
 [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/) and Robert Frank. 2019. [Jabberwocky Parsing: Dependency Parsing with Lexical Noise](https://homes.cs.washington.edu/~jkasai/papers/scil2019_final.pdf). In *Proceedings of the 2019 Meeting of the Society for Computation in Linguistics*, New York.
-
-[Yiding Hao](http://yale.academia.edu/YidingHao),  [William Merrill](https://viking-sudo-rm.github.io), [Dana Angluin](https://cpsc.yale.edu/people/dana-angluin), Robert Frank, [Noah Amsel](https://www.linkedin.com/in/noah-amsel/), Andrew Benz and Simon Mendelsohn. 2018. [Context-Free Transductions with Neural Stacks](https://arxiv.org/pdf/1809.02836.pdf). In *Proceedings of the Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP)*, Brussels.
 
 [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), Robert Frank, Pauli Xu, [William Merrill](https://viking-sudo-rm.github.io) and [Owen Rambow](https://www.elementalcognition.com/team/). 2018. [End-to-end Graph-based TAG Parsing with Neural Networks](http://aclweb.org/anthology/N18-1107). In *Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, New Orleans.
 
