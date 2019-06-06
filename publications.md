@@ -62,7 +62,7 @@ Robert Frank. 1998. [Structural Complexity and the Time Course of Grammatical De
 
 [William Merrill](https://viking-sudo-rm.github.io), [Lenny Khazan](https://www.linkedin.com/in/lennykhazan/), [Noah Amsel](https://www.linkedin.com/in/noah-amsel/),  [Yiding Hao](https://www.notaphonologist.com),   Simon Mendelsohn and Robert Frank. 2019. [Finding Syntactic Representations in Neural Stacks](https://arxiv.org/abs/1906.01594). In *Proceedings of the 2nd Blackbox NLP Workshop on Analyzing and Interpreting Neural Networks for NLP (ACL)*, Firenze.
 
-Yongjie Lin, Yi Chern Tan and Robert Frank. 2019. [Open Sesame: Getting Inside BERT's Linguistic Knowledge](http://clay.yale.edu/papers/bert_blackboxnlp2019.pdf). In *Proceedings of the 2nd Blackbox NLP Workshop on Analyzing and Interpreting Neural Networks for NLP (ACL)*, Firenze.
+Yongjie Lin, Yi Chern Tan and Robert Frank. 2019. [Open Sesame: Getting Inside BERT's Linguistic Knowledge](https://arxiv.org/abs/1906.01698). In *Proceedings of the 2nd Blackbox NLP Workshop on Analyzing and Interpreting Neural Networks for NLP (ACL)*, Firenze.
 
 [William Merrill](https://viking-sudo-rm.github.io), [Gigi Felice Stark](https://www.linkedin.com/in/gigi-stark-15a6b97) and Robert Frank. 2019. [Detecting Syntactic Change Using a Neural Part-of-Speech Tagger](http://clay.yale.edu/papers/Diachronic_POS_Tagger.pdf). In *Proceedings of the  1st International Workshop on Computational Approaches to Historical Language Change (ACL)*, Firenze.
 
