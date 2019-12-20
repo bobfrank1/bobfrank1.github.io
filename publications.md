@@ -60,7 +60,7 @@ Robert Frank. 1998. [Structural Complexity and the Time Course of Grammatical De
 
 ### Natural Language Processing
 
-Aarohi Srivastava, Robert Frank, Sarah Widder and [David Chartash](https://medicine.yale.edu/profile/david_chartash/). [The Role of Linguistic Features in Domain Adaptation: TAG Parsing of Questions](http://clay.yale.edu/papers/domain-adaptation.pdf). In *Proceedings of the 2020 Meeting of the Society for Computation in Linguistics*, New Orleans.
+Aarohi Srivastava, Robert Frank, Sarah Widder and [David Chartash](https://medicine.yale.edu/profile/david_chartash/). [The Role of Linguistic Features in Domain Adaptation: TAG Parsing of Questions](https://scholarworks.umass.edu/scil/vol3/iss1/41). In *Proceedings of the 2020 Meeting of the Society for Computation in Linguistics*, New Orleans.
 
 [William Merrill](https://viking-sudo-rm.github.io), [Lenny Khazan](https://lenny.io), [Noah Amsel](https://www.linkedin.com/in/noah-amsel/),  [Yiding Hao](https://www.notaphonologist.com),   Simon Mendelsohn and Robert Frank. 2019. [Finding Syntactic Representations in Neural Stacks](https://arxiv.org/abs/1906.01594). In *Proceedings of the 2nd Blackbox NLP Workshop on Analyzing and Interpreting Neural Networks for NLP (ACL)*, Firenze.
 
