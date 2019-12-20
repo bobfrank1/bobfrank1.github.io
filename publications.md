@@ -68,7 +68,7 @@ Yongjie Lin, Yi Chern Tan and Robert Frank. 2019. [Open Sesame: Getting Inside B
 
 [William Merrill](https://viking-sudo-rm.github.io), [Gigi Felice Stark](https://www.linkedin.com/in/gigi-stark-15a6b97a/) and Robert Frank. 2019. [Detecting Syntactic Change Using a Neural Part-of-Speech Tagger](http://clay.yale.edu/papers/Diachronic_POS_Tagger.pdf). In *Proceedings of the  1st International Workshop on Computational Approaches to Historical Language Change (ACL)*, Firenze.
 
-[Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), Daniel Friedman, Robert Frank, [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) and [Owen Rambow](https://www.elementalcognition.com/team/). 2019. [Syntax-aware Neural Semantic Role Labeling with Supertags](https://arxiv.org/abs/1903.05260). In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), Minneapolis.
+[Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), Daniel Friedman, Robert Frank, [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) and [Owen Rambow](https://www.elementalcognition.com/team/). 2019. [Syntax-aware Neural Semantic Role Labeling with Supertags](https://arxiv.org/abs/1903.05260). In *Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)*, Minneapolis.
 
 [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/) and Robert Frank. 2019. [Jabberwocky Parsing: Dependency Parsing with Lexical Noise](https://homes.cs.washington.edu/~jkasai/papers/scil2019_final.pdf). In *Proceedings of the 2019 Meeting of the Society for Computation in Linguistics*, New York.
 
