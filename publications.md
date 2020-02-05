@@ -44,6 +44,8 @@ Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 1998. [Optima
 
 ### Language Acquisition and Processing
 
+[R. Thomas McCoy](https://tommccoy1.github.io) , Robert Frank and [Tal Linzen](http://tallinzen.net). to appear. [Revisiting the poverty of the stimulus: hierarchical generalization without a hierarchical bias in recurrent neural networks](https://arxiv.org/abs/2001.03632). In *Transactions of the Association for Computational Linguistics*.
+
 [R. Thomas McCoy](https://tommccoy1.github.io) , Robert Frank and [Tal Linzen](http://tallinzen.net). 2018. [Revisiting the poverty of the stimulus: hierarchical generalization without a hierarchical bias in recurrent neural networks](https://arxiv.org/abs/1802.09091). In *Proceedings of the 40th Annual Meeting of the Cognitive Science Society*, Madison, WI.
 
 Robert Frank, [Donald Mathis](https://www.linkedin.com/in/don-mathis-06427b55/) and [William Badecker]((https://nsf.gov/staff/staff_bio.jsp?lan=wbadecke&org=NSF&from_org=EF)). 2013. [The Acquisition of Anaphora by Simple Recurrent Networks](https://www.tandfonline.com/doi/abs/10.1080/10489223.2013.796950?journalCode=hlac20). *Language Acquisition* 20(3):181–227.
