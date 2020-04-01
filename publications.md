@@ -44,7 +44,7 @@ Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 1998. [Optima
 
 ### Language Acquisition and Processing
 
-[R. Thomas McCoy](https://tommccoy1.github.io) , Robert Frank and [Tal Linzen](http://tallinzen.net). to appear. [Does syntax need to grow on trees? Sources of hierarchical inductive bias in sequence-to-sequence networks](https://arxiv.org/abs/2001.03632). In *Transactions of the Association for Computational Linguistics*.
+[R. Thomas McCoy](https://tommccoy1.github.io) , Robert Frank and [Tal Linzen](http://tallinzen.net). 2020. [Does syntax need to grow on trees? Sources of hierarchical inductive bias in sequence-to-sequence networks](https://doi.org/10.1162/tacl_a_00304). In *Transactions of the Association for Computational Linguistics*.
 
 [R. Thomas McCoy](https://tommccoy1.github.io) , Robert Frank and [Tal Linzen](http://tallinzen.net). 2018. [Revisiting the poverty of the stimulus: hierarchical generalization without a hierarchical bias in recurrent neural networks](https://arxiv.org/abs/1802.09091). In *Proceedings of the 40th Annual Meeting of the Cognitive Science Society*, Madison, WI.
 
