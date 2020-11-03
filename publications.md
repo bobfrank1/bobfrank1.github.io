@@ -44,7 +44,7 @@ Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 1998. [Optima
 
 ### Language Acquisition and Processing
 
-Robert Frank and [Jackson Petty](https://jacksonpetty.org). 2020. [Sequence-to-Sequence Networks Learn the Meaning of Reﬂexive Anaphora](http://clay.yale.edu/papers/frank-petty-reflexives.pdf). In *Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2020)*.
+Robert Frank and [Jackson Petty](https://jacksonpetty.org). 2020. [Sequence-to-Sequence Networks Learn the Meaning of Reﬂexive Anaphora](hhttps://arxiv.org/abs/2011.00682). In *Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2020)*.
 
 [R. Thomas McCoy](https://tommccoy1.github.io) , Robert Frank and [Tal Linzen](http://tallinzen.net). 2020. [Does syntax need to grow on trees? Sources of hierarchical inductive bias in sequence-to-sequence networks](https://doi.org/10.1162/tacl_a_00304). In *Transactions of the Association for Computational Linguistics*.
 
