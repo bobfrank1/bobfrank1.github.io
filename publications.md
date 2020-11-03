@@ -46,6 +46,8 @@ Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 1998. [Optima
 
 Robert Frank and [Jackson Petty](https://jacksonpetty.org). 2020. [Sequence-to-Sequence Networks Learn the Meaning of Reﬂexive Anaphora](hhttps://arxiv.org/abs/2011.00682). In *Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2020)*.
 
+[Yiding Hao](https://www.notaphonologist.com), [Simon Mendelsohn](https://simonjmendelsohn.github.io), [Rachel Sterneck](https://www.linkedin.com/in/rachel-sterneck/), Randi Martinez, and Robert Frank. 2020. [Probabilistic Predictions of People Perusing: Evaluating Metrics of Language Model Performance for Psycholinguistic Modeling](https://arxiv.org/pdf/2009.03954.pdf). In #Proceedings of the Cognitive Modeling and Computational Linguistics (CMCL) Workshop (EMNLP)*.
+
 [R. Thomas McCoy](https://tommccoy1.github.io) , Robert Frank and [Tal Linzen](http://tallinzen.net). 2020. [Does syntax need to grow on trees? Sources of hierarchical inductive bias in sequence-to-sequence networks](https://doi.org/10.1162/tacl_a_00304). In *Transactions of the Association for Computational Linguistics*.
 
 [R. Thomas McCoy](https://tommccoy1.github.io) , Robert Frank and [Tal Linzen](http://tallinzen.net). 2018. [Revisiting the poverty of the stimulus: hierarchical generalization without a hierarchical bias in recurrent neural networks](https://arxiv.org/abs/1802.09091). In *Proceedings of the 40th Annual Meeting of the Cognitive Science Society*, Madison, WI.
