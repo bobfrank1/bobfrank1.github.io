@@ -30,7 +30,7 @@ Robert Frank, [Young-Suk Lee](https://researcher.watson.ibm.com/researcher/view.
 
 ### Mathematical Linguistics
 
-[Tim Hunter](http://linguistics.ucla.edu/people/hunter/)) and Robert Frank, 2021. [Comparing methods of tree-construction across mildly context-sensitive formalisms](https://scholarworks.umass.edu/scil/vol4/iss1/36). In *Proceedings of the Society for Computation in Linguistics*.
+[Tim Hunter](http://linguistics.ucla.edu/people/hunter/)) and Robert Frank. 2021. [Comparing Methods of Tree-Construction Across Mildly Context-Sensitive Formalisms](https://scholarworks.umass.edu/scil/vol4/iss1/36). In *Proceedings of the Society for Computation in Linguistics*.
 
 [Yiding Hao](https://www.notaphonologist.com),  [William Merrill](https://viking-sudo-rm.github.io), [Dana Angluin](https://cpsc.yale.edu/people/dana-angluin), Robert Frank, [Noah Amsel](https://www.linkedin.com/in/noah-amsel/), Andrew Benz and Simon Mendelsohn. 2018. [Context-Free Transductions with Neural Stacks](https://arxiv.org/pdf/1809.02836.pdf). In *Proceedings of the 1st Blackbox NLP Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP)*, Brussels.
 
@@ -46,7 +46,7 @@ Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 1998. [Optima
 
 ### Language Acquisition and Processing
 
-[Karl Mulligan](https://karlmulligan.github.io), Robert Frank, and [Tal Linzen](http://tallinzen.net). 2021. [Structure Here, Bias There: Hierarchical Generalization by Jointly Learning Syntactic Transformations](https://scholarworks.umass.edu/scil/vol4/iss1/13). In *Proceedings of the Society for Computation in Linguistics*.
+[Karl Mulligan](https://karlmulligan.github.io), Robert Frank and [Tal Linzen](http://tallinzen.net). 2021. [Structure Here, Bias There: Hierarchical Generalization by Jointly Learning Syntactic Transformations](https://scholarworks.umass.edu/scil/vol4/iss1/13). In *Proceedings of the Society for Computation in Linguistics*.
 
 Robert Frank and [Jackson Petty](https://jacksonpetty.org). 2020. [Sequence-to-Sequence Networks Learn the Meaning of Reﬂexive Anaphora](hhttps://arxiv.org/abs/2011.00682). In *Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2020)*.
 
