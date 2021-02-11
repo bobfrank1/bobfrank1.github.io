@@ -15,7 +15,7 @@ this is buried behing a Yale firewall, but I hope to fix this in the future.
 <br>
 The study of language from the perspective of cognitive science. Exploration of mental structures that underlie the human ability to learn and process language, drawing on studies of normal and atypical language development and processing, brain imaging, neuropsychology, and computational modeling. Innate linguistic structure vs. determination by experience and culture; the relation between linguistic and nonlinguistic cognition in the domains of decision making, social cognition, and musical cognition; the degree to which language shapes perceptions of color, number, space, and gender.  
 
- LING 227/627
+- LING 227/627
 [Language and Computation I](https://yale.instructure.com/courses/64127)
 <br> 
 Design and analysis of computational models of language. Topics
