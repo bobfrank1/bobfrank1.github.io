@@ -30,7 +30,7 @@ Robert Frank, [Young-Suk Lee](https://researcher.watson.ibm.com/researcher/view.
 
 ### Mathematical Linguistics
 
-[Tim Hunter](http://linguistics.ucla.edu/people/hunter/)) and Robert Frank. 2021. [Comparing Methods of Tree-Construction Across Mildly Context-Sensitive Formalisms](https://scholarworks.umass.edu/scil/vol4/iss1/36). In *Proceedings of the Society for Computation in Linguistics*.
+[Tim Hunter](http://linguistics.ucla.edu/people/hunter/) and Robert Frank. 2021. [Comparing Methods of Tree-Construction Across Mildly Context-Sensitive Formalisms](https://scholarworks.umass.edu/scil/vol4/iss1/36). In *Proceedings of the Society for Computation in Linguistics*.
 
 [Yiding Hao](https://www.notaphonologist.com),  [William Merrill](https://viking-sudo-rm.github.io), [Dana Angluin](https://cpsc.yale.edu/people/dana-angluin), Robert Frank, [Noah Amsel](https://www.linkedin.com/in/noah-amsel/), Andrew Benz and Simon Mendelsohn. 2018. [Context-Free Transductions with Neural Stacks](https://arxiv.org/pdf/1809.02836.pdf). In *Proceedings of the 1st Blackbox NLP Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP)*, Brussels.
 
