@@ -72,9 +72,9 @@ Robert Frank. 1998. [Structural Complexity and the Time Course of Grammatical De
 
 ### Natural Language Processing
 
-David Chartash, Mona Sharif, Beth Emerson, Robert Frank, Elizabeth M.Schoenfeld, Jason Tanner, Cynthia Brandt and Richard A.Taylor. [Documentation of Shared Decisionmaking in the Emergency Department](https://www.sciencedirect.com/science/article/pii/S0196064421003796). *Annals of Emergency Medicine* 78(5): 637-649.
+David Chartash, Mona Sharif, Beth Emerson, Robert Frank, Elizabeth M.Schoenfeld, Jason Tanner, Cynthia Brandt and Richard A.Taylor. 2021. [Documentation of Shared Decisionmaking in the Emergency Department](https://www.sciencedirect.com/science/article/pii/S0196064421003796). *Annals of Emergency Medicine* 78(5): 637-649.
 
-Aarohi Srivastava, Robert Frank, Sarah Widder and [David Chartash](https://medicine.yale.edu/profile/david_chartash/). [The Role of Linguistic Features in Domain Adaptation: TAG Parsing of Questions](https://scholarworks.umass.edu/scil/vol3/iss1/41). In *Proceedings of the 2020 Meeting of the Society for Computation in Linguistics*, New Orleans.
+Aarohi Srivastava, Robert Frank, Sarah Widder and [David Chartash](https://medicine.yale.edu/profile/david_chartash/). 2020. [The Role of Linguistic Features in Domain Adaptation: TAG Parsing of Questions](https://scholarworks.umass.edu/scil/vol3/iss1/41). In *Proceedings of the 2020 Meeting of the Society for Computation in Linguistics*, New Orleans.
 
 [William Merrill](https://viking-sudo-rm.github.io), [Lenny Khazan](https://lenny.io), [Noah Amsel](https://www.linkedin.com/in/noah-amsel/),  [Yiding Hao](https://www.notaphonologist.com),   Simon Mendelsohn and Robert Frank. 2019. [Finding Syntactic Representations in Neural Stacks](https://arxiv.org/abs/1906.01594). In *Proceedings of the 2nd Blackbox NLP Workshop on Analyzing and Interpreting Neural Networks for NLP (ACL)*, Firenze.
 
