@@ -30,6 +30,8 @@ Robert Frank, [Young-Suk Lee](https://researcher.watson.ibm.com/researcher/view.
 
 ### Mathematical Linguistics
 
+Robert Frank and [Tim Hunter](http://linguistics.ucla.edu/people/hunter/). 2021. [Variation in mild context-sensitivity: Derivational state and structural monotonicity](https://benjamins.com/catalog/elt.00033.fra). *Evolutionary Linguistic Theory* 3(2): 181-214.
+
 [Tim Hunter](http://linguistics.ucla.edu/people/hunter/) and Robert Frank. 2021. [Comparing Methods of Tree-Construction Across Mildly Context-Sensitive Formalisms](https://scholarworks.umass.edu/scil/vol4/iss1/36). In *Proceedings of the Society for Computation in Linguistics*.
 
 [Yiding Hao](https://www.notaphonologist.com),  [William Merrill](https://viking-sudo-rm.github.io), [Dana Angluin](https://cpsc.yale.edu/people/dana-angluin), Robert Frank, [Noah Amsel](https://www.linkedin.com/in/noah-amsel/), Andrew Benz and Simon Mendelsohn. 2018. [Context-Free Transductions with Neural Stacks](https://arxiv.org/pdf/1809.02836.pdf). In *Proceedings of the 1st Blackbox NLP Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP)*, Brussels.
@@ -69,6 +71,8 @@ Robert Frank. 2000. From Regular to Context-Free to Mildly Context-Sensitive Tre
 Robert Frank. 1998. [Structural Complexity and the Time Course of Grammatical Development](https://www.sciencedirect.com/science/article/pii/S0010027798000249). *Cognition* 66(3):249–301.
 
 ### Natural Language Processing
+
+David Chartash, Mona Sharif, Beth Emerson, Robert Frank, Elizabeth M.Schoenfeld, Jason Tanner, Cynthia Brandt and Richard A.Taylor. [Documentation of Shared Decisionmaking in the Emergency Department](https://www.sciencedirect.com/science/article/pii/S0196064421003796). *Annals of Emergency Medicine* 78(5): 637-649.
 
 Aarohi Srivastava, Robert Frank, Sarah Widder and [David Chartash](https://medicine.yale.edu/profile/david_chartash/). [The Role of Linguistic Features in Domain Adaptation: TAG Parsing of Questions](https://scholarworks.umass.edu/scil/vol3/iss1/41). In *Proceedings of the 2020 Meeting of the Society for Computation in Linguistics*, New Orleans.
 
