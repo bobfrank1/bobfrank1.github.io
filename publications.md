@@ -6,6 +6,8 @@ permalink: /publications/
 
 ### Theoretical Linguistics
 
+[Matthew Barros](https://sites.google.com/view/mattbarros/home) and Robert Frank. to appear. [Attention and Locality: On clause-boundedness and its exceptions in multiple sluicing](https://ling.auf.net/lingbuzz/006303). *Linguistic Inquiry*. 
+
 [Dennis Ryan Storoshenko](http://people.ucalgary.ca/~dstorosh/) and Robert Frank. 2016. [Parasitic Gaps and the Heterogeneity of Dependency Formation in STAG](http://www.aclweb.org/anthology/W16-3312). In *Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Frameworks*, Heinrich Heine University.
 
 [Tim Hunter](http://linguistics.ucla.edu/people/hunter/) and Robert Frank. 2014. [Eliminating Rightward Movement: Extraposition as Flexible Linearization of Adjuncts](https://www.mitpressjournals.org/doi/abs/10.1162/LING_a_00154). *Linguistic Inquiry* 45(2):227–267.
