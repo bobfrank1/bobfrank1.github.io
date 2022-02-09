@@ -50,6 +50,8 @@ Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 1998. [Optima
 
 ### Language Acquisition and Processing
 
+[Jackson Petty](https://jacksonpetty.org), [Michael Wilson](https://campuspress.yale.edu/michaelwilson/) and Robert Frank. 2022. [Do Language Models Learn Position-Role Mappings?](https://arxiv.org/pdf/2202.03611.pdf) In *Proceedings of the BU Conference on Language Development* 46.
+
 [Karl Mulligan](https://karlmulligan.github.io), Robert Frank and [Tal Linzen](http://tallinzen.net). 2021. [Structure Here, Bias There: Hierarchical Generalization by Jointly Learning Syntactic Transformations](https://scholarworks.umass.edu/scil/vol4/iss1/13). In *Proceedings of the Society for Computation in Linguistics*.
 
 Robert Frank and [Jackson Petty](https://jacksonpetty.org). 2020. [Sequence-to-Sequence Networks Learn the Meaning of Reﬂexive Anaphora](hhttps://arxiv.org/abs/2011.00682). In *Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2020)*.
