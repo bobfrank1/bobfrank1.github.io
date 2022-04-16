@@ -32,6 +32,8 @@ Robert Frank, [Young-Suk Lee](https://researcher.watson.ibm.com/researcher/view.
 
 ### Mathematical Linguistics
 
+[Yiding Hao](https://www.notaphonologist.com), [Dana Angluin](https://cpsc.yale.edu/people/dana-angluin) and Robert Frank. To appear. [Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity](https://arxiv.org/pdf/2204.06618.pdf). *Transactions of the Association for Computational Linguistics*.
+ 
 Robert Frank and [Tim Hunter](http://linguistics.ucla.edu/people/hunter/). 2021. [Variation in mild context-sensitivity: Derivational state and structural monotonicity](https://benjamins.com/catalog/elt.00033.fra). *Evolutionary Linguistic Theory* 3(2): 181-214.
 
 [Tim Hunter](http://linguistics.ucla.edu/people/hunter/) and Robert Frank. 2021. [Comparing Methods of Tree-Construction Across Mildly Context-Sensitive Formalisms](https://scholarworks.umass.edu/scil/vol4/iss1/36). In *Proceedings of the Society for Computation in Linguistics*.
@@ -49,6 +51,8 @@ Robert Frank and Fero Kuminiak. 2000. [Primitive Asymmetric C-Command Derives XÌ
 Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 1998. [Optimality Theory and the Generative Complexity of Constraint Violability](http://www.aclweb.org/anthology/J98-2006). *Computational Linguistics* 24(2):307â€“315.
 
 ### Language Acquisition and Processing
+
+[Aaron Mueller](https://aaronmueller.github.io/), Robert Frank, [Tal Linzen](http://tallinzen.net), Luheng Wang and [Sebastian Schuster](http://sebschu.com/). 2022. [Coloring the Blank Slate: Pre-training Imparts a Hierarchical Inductive Bias to Sequence-to-sequence Models](https://arxiv.org/pdf/2203.09397.pdf). In *Findings of the Association for Computational Linguistics*. 
 
 [Jackson Petty](https://jacksonpetty.org), [Michael Wilson](https://campuspress.yale.edu/michaelwilson/) and Robert Frank. 2022. [Do Language Models Learn Position-Role Mappings?](https://arxiv.org/pdf/2202.03611.pdf) In *Proceedings of the BU Conference on Language Development* 46.
 
