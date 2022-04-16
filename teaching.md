@@ -8,20 +8,17 @@ This page includes to links to materials for my courses. Sadly, all of
 this is buried behing a Yale firewall, but I hope to fix this in the future.
 
 
-### Current Classes (AY 2020-2021)
+### Current Classes (Spring 2022)
 
 - LING 116 / CGSC 216
 [Cognitive Science of Language](https://yale.instructure.com/courses/64122)
 <br>
 The study of language from the perspective of cognitive science. Exploration of mental structures that underlie the human ability to learn and process language, drawing on studies of normal and atypical language development and processing, brain imaging, neuropsychology, and computational modeling. Innate linguistic structure vs. determination by experience and culture; the relation between linguistic and nonlinguistic cognition in the domains of decision making, social cognition, and musical cognition; the degree to which language shapes perceptions of color, number, space, and gender.  
 
-- LING 227/627
-[Language and Computation I](https://yale.instructure.com/courses/64127)
-<br> 
-Design and analysis of computational models of language. Topics
-include finite state tools, computational morphology and phonology,
-grammar and parsing, lexical semantics, and the use of linguistic
-models in applied problems.
+- LING 363/763 
+[Computational Models of Syntax](https://yale.instructure.com/courses/76574)
+<br>
+This course explores a range of mathematical and computational tools for the description of natural language syntax, and moves students toward independent work in the area. The focus here will be on grammar formalisms for the representation of syntax, particularly those whose expressive power falls between that of context-free and context-sensitive grammars.  These include Minimalist Grammars, Categorial Grammars, Dependency Grammars, and Tree Adjoining Grammars. The course will address the mathematical and algorithmic properties of these formalisms, their appropriateness for linguistic description, and (depending on student interest)  their applications to applied problems in natural language processing, including parsing and automated grammar induction. 
 
 ### Past Classes
 
@@ -30,12 +27,18 @@ models in applied problems.
 <br>
 Study of formal systems that play an important role in the scientific study of language. Exploration of a range of mathematical structures and techniques; demonstrations of their application in theories of grammatical competence and performance including set theory, graphs and discrete structures, algebras, formal language, and automata theory. Evaluation of strengths and weaknesses of existing formal theories of linguistic knowledge.
 
-
 - LING 225/625
 [Computing Meanings](https://yale.instructure.com/courses/2953)
 <br>
 Introduction to mathematical and computational tools for assigning meanings to natural language sentences. Foundational skills for the development of formal models of human language syntax and semantics, and for practical applications of language technology such as text understanding and question-answering. Topics include syntactic structure and displacement, quantification and inference, and the dynamics of discourse.
 
+- LING 227/627
+[Language and Computation I](https://yale.instructure.com/courses/64127)
+<br> 
+Design and analysis of computational models of language. Topics
+include finite state tools, computational morphology and phonology,
+grammar and parsing, lexical semantics, and the use of linguistic
+models in applied problems.
 
 - LING 229/629 [Language and Computation II](https://yale.instructure.com/courses/13771)
 <br>
