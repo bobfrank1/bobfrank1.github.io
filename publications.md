@@ -8,7 +8,7 @@ permalink: /publications/
 
 [Matthew Barros](https://sites.google.com/view/mattbarros/home) and Robert Frank. to appear. [Attention and Locality: On clause-boundedness and its exceptions in multiple sluicing](https://ling.auf.net/lingbuzz/006303). *Linguistic Inquiry*. 
 
-Robert Frank and [Hadas Kotek](https://hkotek.com/). to appear. [Arguments for Top-Down Derivations in Syntax](images/top_down.pdf). In *Proceedings of the Linguistic Society of America*, Volume 7.
+Robert Frank and [Hadas Kotek](https://hkotek.com/). to appear. [Arguments for Top-Down Derivations in Syntax](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5264). In *Proceedings of the Linguistic Society of America*, Volume 7.
 
 [Dennis Ryan Storoshenko](http://people.ucalgary.ca/~dstorosh/) and Robert Frank. 2016. [Parasitic Gaps and the Heterogeneity of Dependency Formation in STAG](http://www.aclweb.org/anthology/W16-3312). In *Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Frameworks*, Heinrich Heine University.
 
