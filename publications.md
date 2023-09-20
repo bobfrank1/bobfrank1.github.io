@@ -8,7 +8,7 @@ permalink: /publications/
 
 [Matthew Barros](https://sites.google.com/view/mattbarros/home) and Robert Frank. to appear. [Attention and Locality: On clause-boundedness and its exceptions in multiple sluicing](https://ling.auf.net/lingbuzz/006303). *Linguistic Inquiry*. 
 
-Robert Frank and [Hadas Kotek](https://hkotek.com/). to appear. [Arguments for Top-Down Derivations in Syntax](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5264). In *Proceedings of the Linguistic Society of America*, Volume 7.
+Robert Frank and [Hadas Kotek](https://hkotek.com/). 2022. [Arguments for Top-Down Derivations in Syntax](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5264). In *Proceedings of the Linguistic Society of America*, Volume 7.
 
 [Dennis Ryan Storoshenko](http://people.ucalgary.ca/~dstorosh/) and Robert Frank. 2016. [Parasitic Gaps and the Heterogeneity of Dependency Formation in STAG](http://www.aclweb.org/anthology/W16-3312). In *Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Frameworks*, Heinrich Heine University.
 
@@ -34,7 +34,9 @@ Robert Frank, [Young-Suk Lee](https://researcher.watson.ibm.com/researcher/view.
 
 ### Mathematical Linguistics
 
-[Yiding Hao](https://www.notaphonologist.com), [Dana Angluin](https://cpsc.yale.edu/people/dana-angluin) and Robert Frank. To appear. [Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity](https://arxiv.org/pdf/2204.06618.pdf). *Transactions of the Association for Computational Linguistics*.
+Robert Frank, William Min, Abhisar Mittal and Billy Zhong. To Appear. [The antisymmetry of syntactic structure: a view from automorphisms](http://clay.yale.edu/papers/automorphism.pdf). *Papers in Honor of Andrea Moro*.
+
+[Yiding Hao](https://www.notaphonologist.com), [Dana Angluin](https://cpsc.yale.edu/people/dana-angluin) and Robert Frank. 2022. [Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity](https://arxiv.org/pdf/2204.06618.pdf). *Transactions of the Association for Computational Linguistics*.
  
 Robert Frank and [Tim Hunter](http://linguistics.ucla.edu/people/hunter/). 2021. [Variation in mild context-sensitivity: Derivational state and structural monotonicity](https://benjamins.com/catalog/elt.00033.fra). *Evolutionary Linguistic Theory* 3(2): 181-214.
 
