@@ -60,7 +60,7 @@ Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 1998. [Optima
 
 [Michael Wilson](https://sites.udel.edu/michaelwilson/), [Jackson Petty](https://jacksonpetty.org) and Robert Frank. 2023. [How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure](https://doi.org/10.1162/tacl_a_00608). *Transactions of the Association for Computational Linguistics* 11: 1377–1395.
 
-[Michael A. Wilson](https://sites.udel.edu/michaelwilson/), Zhenghao Zhou and Robert Frank. 2023. [Subject-verb Agreement with Seq2Seq Transformers: Bigger Is Better, but Still Not Best](hhttps://doi.org/10.7275/d5gb-v650). *Proceedings of the Society for Computation in Linguistics* Vol. 6.
+[Michael A. Wilson](https://sites.udel.edu/michaelwilson/), Zhenghao Zhou and Robert Frank. 2023. [Subject-verb Agreement with Seq2Seq Transformers: Bigger Is Better, but Still Not Best](https://doi.org/10.7275/d5gb-v650). *Proceedings of the Society for Computation in Linguistics* Vol. 6.
 
 Zhenghao Zhou  and Robert Frank. 2023. [What Affects Priming Strength? Simulating Structural Priming Effect with PIPS](https://doi.org/10.7275/s0rv-1p15). *Proceedings of the Society for Computation in Linguistics* Vol. 6.
 
