@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Theoretical Linguistics
 
-[Matthew Barros](https://sites.google.com/view/mattbarros/home) and Robert Frank. to appear. [Attention and Locality: On clause-boundedness and its exceptions in multiple sluicing](https://ling.auf.net/lingbuzz/006303). *Linguistic Inquiry*. 
+[Matthew Barros](https://sites.google.com/view/mattbarros/home) and Robert Frank. 2023. [Attention and Locality: On clause-boundedness and its exceptions in multiple sluicing](https://doi.org/10.1162/ling_a_00458). *Linguistic Inquiry* 54(4):649–684. 
 
 Robert Frank and [Hadas Kotek](https://hkotek.com/). 2022. [Arguments for Top-Down Derivations in Syntax](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5264). In *Proceedings of the Linguistic Society of America*, Volume 7.
 
@@ -36,6 +36,8 @@ Robert Frank, [Young-Suk Lee](https://researcher.watson.ibm.com/researcher/view.
 
 Robert Frank, William Min, Abhisar Mittal and Billy Zhong. To Appear. [The antisymmetry of syntactic structure: a view from automorphisms](http://clay.yale.edu/papers/automorphism.pdf). *Papers in Honor of Andrea Moro*.
 
+[Isabella Senturia](https://campuspress.yale.edu/isabellasenturia/) and Robert Frank. 2023. [On the Spectra of Syntactic Structures](https://doi.org/10.7275/b65f-p440). *Proceedings of the Society for Computation in Linguistics* Vol. 6.
+
 [Yiding Hao](https://www.notaphonologist.com), [Dana Angluin](https://cpsc.yale.edu/people/dana-angluin) and Robert Frank. 2022. [Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity](https://arxiv.org/pdf/2204.06618.pdf). *Transactions of the Association for Computational Linguistics*.
  
 Robert Frank and [Tim Hunter](http://linguistics.ucla.edu/people/hunter/). 2021. [Variation in mild context-sensitivity: Derivational state and structural monotonicity](https://benjamins.com/catalog/elt.00033.fra). *Evolutionary Linguistic Theory* 3(2): 181-214.
@@ -55,6 +57,12 @@ Robert Frank and Fero Kuminiak. 2000. [Primitive Asymmetric C-Command Derives X�
 Robert Frank and [Giorgio Satta](http://www.dei.unipd.it/~satta/). 1998. [Optimality Theory and the Generative Complexity of Constraint Violability](http://www.aclweb.org/anthology/J98-2006). *Computational Linguistics* 24(2):307–315.
 
 ### Language Acquisition and Processing
+
+[Michael Wilson](https://sites.udel.edu/michaelwilson/), [Jackson Petty](https://jacksonpetty.org) and Robert Frank. 2023. [How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure](https://doi.org/10.1162/tacl_a_00608). *Transactions of the Association for Computational Linguistics* 11: 1377–1395.
+
+[Michael A. Wilson](https://sites.udel.edu/michaelwilson/), Zhenghao Zhou and Robert Frank. 2023. [Subject-verb Agreement with Seq2Seq Transformers: Bigger Is Better, but Still Not Best](hhttps://doi.org/10.7275/d5gb-v650). *Proceedings of the Society for Computation in Linguistics* Vol. 6.
+
+Zhenghao Zhou  and Robert Frank. 2023. [What Affects Priming Strength? Simulating Structural Priming Effect with PIPS](https://doi.org/10.7275/s0rv-1p15). *Proceedings of the Society for Computation in Linguistics* Vol. 6.
 
 [Aaron Mueller](https://aaronmueller.github.io/), Robert Frank, [Tal Linzen](http://tallinzen.net), Luheng Wang and [Sebastian Schuster](http://sebschu.com/). 2022. [Coloring the Blank Slate: Pre-training Imparts a Hierarchical Inductive Bias to Sequence-to-sequence Models](https://arxiv.org/pdf/2203.09397.pdf). In *Findings of the Association for Computational Linguistics*. 
 
@@ -84,6 +92,8 @@ Robert Frank. 1998. [Structural Complexity and the Time Course of Grammatical De
 
 ### Natural Language Processing
 
+
+
 David Chartash, Mona Sharif, Beth Emerson, Robert Frank, Elizabeth M.Schoenfeld, Jason Tanner, Cynthia Brandt and Richard A.Taylor. 2021. [Documentation of Shared Decisionmaking in the Emergency Department](https://www.sciencedirect.com/science/article/pii/S0196064421003796). *Annals of Emergency Medicine* 78(5): 637-649.
 
 Aarohi Srivastava, Robert Frank, Sarah Widder and [David Chartash](https://medicine.yale.edu/profile/david_chartash/). 2020. [The Role of Linguistic Features in Domain Adaptation: TAG Parsing of Questions](https://scholarworks.umass.edu/scil/vol3/iss1/41). In *Proceedings of the 2020 Meeting of the Society for Computation in Linguistics*, New Orleans.
@@ -94,7 +104,7 @@ Yongjie Lin, Yi Chern Tan and Robert Frank. 2019. [Open Sesame: Getting Inside B
 
 [William Merrill](https://viking-sudo-rm.github.io), [Gigi Felice Stark](https://www.linkedin.com/in/gigi-stark-15a6b97a/) and Robert Frank. 2019. [Detecting Syntactic Change Using a Neural Part-of-Speech Tagger](http://clay.yale.edu/papers/Diachronic_POS_Tagger.pdf). In *Proceedings of the  1st International Workshop on Computational Approaches to Historical Language Change (ACL)*, Firenze.
 
-[Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), Daniel Friedman, Robert Frank, [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) and [Owen Rambow](https://www.elementalcognition.com/team/). 2019. [Syntax-aware Neural Semantic Role Labeling with Supertags](https://arxiv.org/abs/1903.05260). In *Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)*, Minneapolis.
+[Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [Daniel Friedman](https://danfriedman0.github.io), Robert Frank, [Dragomir Radev](http://www.cs.yale.edu/homes/radev/) and [Owen Rambow](https://www.elementalcognition.com/team/). 2019. [Syntax-aware Neural Semantic Role Labeling with Supertags](https://arxiv.org/abs/1903.05260). In *Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)*, Minneapolis.
 
 [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/) and Robert Frank. 2019. [Jabberwocky Parsing: Dependency Parsing with Lexical Noise](https://homes.cs.washington.edu/~jkasai/papers/scil2019_final.pdf). In *Proceedings of the 2019 Meeting of the Society for Computation in Linguistics*, New York.
 
@@ -104,6 +114,6 @@ Yongjie Lin, Yi Chern Tan and Robert Frank. 2019. [Open Sesame: Getting Inside B
 
 [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), Robert Frank, [R. Thomas McCoy](https://tommccoy1.github.io), [Owen Rambow](https://www.elementalcognition.com/team/) and [Alexis Nasr](http://pageperso.lif.univ-mrs.fr/~alexis.nasr/). 2017. [TAG Parsing with Neural Networks and Vector Representations of Supertags](https://www.aclweb.org/anthology/D17-1180). In *Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Copenhagen.
 
-[Dan Friedman](https://www.linkedin.com/in/dan-friedman-4464669a/), [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [R. Thomas McCoy](https://tommccoy1.github.io), Robert Frank, [Forrest Davis](https://github.com/forrestdavis) and [Owen Rambow](https://www.elementalcognition.com/team/). 2017. [Linguistically Rich Representations of Supertags for TAG Parsing](http://www.aclweb.org/anthology/W17-6213). In *Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Frameworks*, Umeå University.
+[Dan Friedman](https://danfriedman0.github.io), [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [R. Thomas McCoy](https://tommccoy1.github.io), Robert Frank, [Forrest Davis](https://github.com/forrestdavis) and [Owen Rambow](https://www.elementalcognition.com/team/). 2017. [Linguistically Rich Representations of Supertags for TAG Parsing](http://www.aclweb.org/anthology/W17-6213). In *Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Frameworks*, Umeå University.
 
 Pauli Xu, Robert Frank, [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/) and [Owen Rambow](https://www.elementalcognition.com/team/). 2017. [TAG Parser Evaluation using Textual Entailments](http://www.aclweb.org/anthology/W17-6214). In *Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Frameworks*, Umeå University.
